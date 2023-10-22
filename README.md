@@ -1,8 +1,8 @@
-# Products Listing
+# Todo List
 
 ## Table of Contents
 
-- [Products Listing](#products-listing)
+- [Todo List](#todo-list)
   - [Table of Contents](#table-of-contents)
   - [Folder Structure](#folder-structure)
   - [Getting Started](#getting-started)
@@ -21,7 +21,7 @@ Here's an overview of the project's folder structure:
   - `/layout` Different page layouts i.e `Admin | Dashboard`
   - `/helpers`: Reusable helper methods and utilities.
   - `/pages`: Application pages.
-    - `Home.tsx`: The main component for the Products page.
+    - `Home.tsx`: The main component for the Todo page.
     - `Completed.tsx` Completed tasks.
   - `/services`: Services for data fetching and other interactions.
   - `/store` Redux store for central state management.
@@ -44,7 +44,7 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/SohaibRaza/your-project.git
+   git clone https://github.com/SohaibRaza/todo-list-app.git
    ```
 
 2. Navigate to the project directory:
